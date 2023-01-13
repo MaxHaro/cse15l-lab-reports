@@ -29,6 +29,7 @@ After you've installed git with all the default settings, we are now ready to us
 3. Because it's your first time connecting to this server, you will get a message prompting you to enter yes/no. Go ahead and type `yes` and press enter.
 
 4. Enter your password and after that you should receive a message that looks like this:
+
 ```
 Last login: Tue Dec 14 10:48:47 2021 from 43.sub-174-195-143.myvzw.com
 Hello cs15lwi23xxx, you are currently logged into ieng6-203.ucsd.edu
