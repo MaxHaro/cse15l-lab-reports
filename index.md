@@ -51,10 +51,10 @@ You are now succesfully connected to a computer other than your own through a se
 ## Step 3: Trying Some Commands.
 
 Some useful commands you might want to try include:
-* `cat <path1> <path2>`
-* `ls <path>`
-* `pwd`
-* `cd <path>`
+* `cat <path1> <path2>` Prints the content of one or more files.
+* `ls <path>` Lists the files/directories in the specified path.
+* `pwd` Prints the current working directory.
+* `cd <path>` Changes directory to a specified path.
 
 Let's see what happens when we try using the `ls` command inside the cs15lwi23 directory:
 
